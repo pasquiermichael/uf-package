@@ -1,0 +1,14 @@
+{
+    "name": "uf/name",
+    "description": "test package",
+    "type": "library",
+    "license": "uf",
+    "authors": [
+        {
+            "name": "Rodolphe",
+            "email": "rvivet@universalflower.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
