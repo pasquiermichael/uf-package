@@ -2,7 +2,7 @@
     "name": "uf/name",
     "description": "test package",
     "type": "library",
-    "license": "uf",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Rodolphe",
