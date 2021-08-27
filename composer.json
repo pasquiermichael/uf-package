@@ -9,5 +9,13 @@
             "email": "rvivet@universalflower.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Universalflower\\": "src/"
+        },
+        "files": [
+            "src/Universalflower.php"
+        ]
+    },
     "require": {}
 }
