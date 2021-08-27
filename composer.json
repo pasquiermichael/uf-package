@@ -9,6 +9,5 @@
             "email": "rvivet@universalflower.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
