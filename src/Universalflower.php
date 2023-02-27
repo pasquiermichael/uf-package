@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Uf\Name;
+
 class Universalflower
 {
     
