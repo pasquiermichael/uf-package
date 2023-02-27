@@ -16,5 +16,7 @@
         "files": [
             "src/Universalflower.php"
         ]
-    }
+    },
+    "minimum-stability": "stable",
+    "require": {}
 }
